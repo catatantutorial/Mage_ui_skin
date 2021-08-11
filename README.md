@@ -1,0 +1,1 @@
+# Mage_ui_skin
